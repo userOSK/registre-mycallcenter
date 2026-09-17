@@ -1,3 +1,4 @@
-ref;traitement;finalite;base_legale;categories_donnees;personnes_concernees;destinataires;duree_conservation;mesures_securite
-OP-01;Enregistrement de l appel telephonique;Preuve de l appel et controle de la qualite;Interet legitime;Voix, identite, vie personnelle (habitudes de consommation);Prospect appele;Service qualite, client commanditaire;A definir;Acces restreint au service qualite
-OP-03;Reecoute et archivage des enregistrements audio;Realiser l etude de marche;Interet legitime;Voix, identite;Clients, prospects;Service qualite;A definir;Acces restreint
+ref;traitement;finalite;base_legale;categories_donnees;personnes_concernees;destinataires;duree_conservation;mesures_securite 
+OP-01;Enregistrement de l appel telephonique;Preuve de l appel et controle de la qualite;Interet legitime;Voix, identite, vie personnelle (habitudes de consommation);Prospect appele;Service qualite, client commanditaire;13 mois;Acces restreint au service qualite 
+OP-02;Saisie des reponses et stockage dans la base de donnees;Realiser l etude de marche;Consentement;Identite, opinions;Prospect appele;Client commanditaire;3 ans;Acces securise 
+OP-03;Reecoute et archivage des enregistrements audio;Controle qualite;Interet legitime;Voix;Salaries, clients;Service qualite;A definir;Acces restreint 
